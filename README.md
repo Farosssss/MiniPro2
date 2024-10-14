@@ -132,6 +132,18 @@ FLOWCHART
 
 
 
+OUTPUT
+![image](https://github.com/user-attachments/assets/02dcffe3-5d99-471c-8fc7-2652ed060c28)
+
+![image](https://github.com/user-attachments/assets/7504e92f-4403-4335-a968-1791082dd27e)
+
+![image](https://github.com/user-attachments/assets/df005eaf-795c-4b6c-8008-f9a408b3edac)
+
+
+
+
+
+
 
     
 
